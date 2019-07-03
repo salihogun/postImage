@@ -1,0 +1,7 @@
+C:\Users\Salih\source\repos\PostImage\PostImage\bin\Debug\PostImage.exe.config
+C:\Users\Salih\source\repos\PostImage\PostImage\bin\Debug\PostImage.exe
+C:\Users\Salih\source\repos\PostImage\PostImage\bin\Debug\PostImage.pdb
+C:\Users\Salih\source\repos\PostImage\PostImage\obj\Debug\PostImage.csprojAssemblyReference.cache
+C:\Users\Salih\source\repos\PostImage\PostImage\obj\Debug\PostImage.csproj.CoreCompileInputs.cache
+C:\Users\Salih\source\repos\PostImage\PostImage\obj\Debug\PostImage.exe
+C:\Users\Salih\source\repos\PostImage\PostImage\obj\Debug\PostImage.pdb
